@@ -31,7 +31,7 @@ import Saudacao from './componentes/Saudacao';
             <img src={reactLogo} className="logo react" alt="React logo" />
           </a>
         </div>
-        <h1>Lucas Soares Dos Santos</h1>
+        <h1>Júlio Henrique Da Silva Amorim</h1>
         <div className="card">
           <button onClick={() => setCount((count) => count + 1)}>
             count is {count}
